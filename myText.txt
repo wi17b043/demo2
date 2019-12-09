@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "Hello Joki und Edo 4immer und ewig"
+=======
+"Hello Joki und Edo"
+>>>>>>> develop
